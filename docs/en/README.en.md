@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <img src="img/logo.png">
+  <img src="../../img/logo.png">
 </div>
 <br/>
 <div align="center">
@@ -10,8 +10,7 @@
 ![c++11](https://img.shields.io/badge/C%2B%2B-11-brightgreen.svg?&style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino-%3E%3D1.6.6-blue.svg?&style=for-the-badge)
 
-[**English**](docs/en/README.en.md) | [**한국어**](docs/kr/README.ko.md)
-
+[**English**](../en/README.en.md) | [**한국어**](../kr/README.ko.md)
 
 </div>
 
