@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <img src="../../img/logo.png">
+  <img src="../../../img/logo.png">
 </div>
 <br/>
 <div align="center">
