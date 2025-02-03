@@ -1,14 +1,14 @@
-#######################################
-# Syntax Coloring Map For DW1000-ng
-#######################################
+=======================================
+# Syntax Coloring Map For uwb-dw1000
+=======================================
 
 #######################################
-# Library (KEYWORD1)
+# Datatypes (KEYWORD1)
 #######################################
 
-DW1000Ng	KEYWORD1
-DW1000NgTime	KEYWORD1
-DW1000NgUtils	KEYWORD1
+DW1000Ng	KEYWORD2
+DW1000NgTime	KEYWORD2
+DW1000NgUtils	KEYWORD2
 DW1000NgRanging	KEYWORD1
 
 #######################################
@@ -93,8 +93,18 @@ writeValueToBytes	KEYWORD2
 bytesAsValue	KEYWORD2
 nibbleFromChar	KEYWORD2
 convertToByte	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
 #######################################
 # Constants (LITERAL1)
 #######################################
+HIGH    LITERAL1
+LOW    LITERAL1
+INPUT    LITERAL1
+OUTPUT    LITERAL1
+MIN_PULSE_WIDTH    LITERAL1
 
 # TODO ...
